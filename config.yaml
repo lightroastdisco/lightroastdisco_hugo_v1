@@ -1,0 +1,72 @@
+baseURL: http://lightroastdisco.com # todo: change site url.
+title: Light Roast Disco # todo: change site name.
+defaultContentLanguage: 'en'
+theme: eternity
+googleAnalytics: '' # todo: set your analytics id.
+
+params:
+  image: /images/logo_girl.png
+  logo: logo_girl.png # todo: add your custom logo to static/
+  subtitle: House, Disco, Chicago # todo: change default subtitle for your website.
+  copyright: All rights reserved. # todo: set your copyright type.
+  author: C/E/M/M # todo: set your full name.
+  dontShowSource: false # please, do not do this :)
+  dontShowLogo: false # If you want to hide the logo, this is what you set to true
+  portfolio:
+    columns:
+      desktop:
+        default: 3
+      mobile:
+        default: 2
+  socials:
+    # todo: add your social accounts.
+    - icon: 'far fa-envelope fa-lg'
+      url: 'mailto:retoxlabel@gmail.com'
+      landing: true
+    - icon: 'fab fa-instagram fa-lg'
+      url: 'https://www.instagram.com/rtxsessions/'
+      landing: true
+  homepage: "/home" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
+  specialPages:
+    - home
+    - archive
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
+  plausible: '' # todo: set your plausible id.
+  disableWelcomePageBackground: true # disables the background image on the homepage
+  disableRadius: false
+  moveIt: false # Moves Title and Meta info down, only visible when scroll.
+  disableAlwaysResize: false
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  home: ":filename/"
+
+menu:
+  main:
+    - name: home
+      url: /home/
+      weight: 1
+    - name: people
+      url: /people/
+      weight: 3
+    - name: music
+      url: /music/
+      weight: 2
+    - name: bandcamp
+      url: https://rtxsessions.bandcamp.com/
+      weight: 4
+    - name: soundcloud
+      url: https://soundcloud.com/rtxsessions
+      weight: 5
+    - name: about
+      url: /about/
+      weight: 6
+    
