@@ -24,7 +24,7 @@ params:
       url: 'mailto:retoxlabel@gmail.com'
       landing: true
     - icon: 'fab fa-instagram fa-lg'
-      url: 'https://www.instagram.com/rtxsessions/'
+      url: 'https://www.instagram.com/lightroastdisco/'
       landing: true
   homepage: "/home" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
   specialPages:
