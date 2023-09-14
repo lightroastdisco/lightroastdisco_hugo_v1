@@ -11,7 +11,7 @@ url: home
         <strong>Next Shows:</strong>
 	</p>
 	<p>
-        September 29, 2023 - 9PM
+        <a href="https://fb.me/e/3Q7nvXPdS">September 29, 2023 - 9PM</a> 
 	</p>
 	<p>
         November 17, 2023 - 9PM

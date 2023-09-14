@@ -5,8 +5,8 @@ theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
 params:
-  image: /images/logo_girl.png
-  logo: logo_girl.png # todo: add your custom logo to static/
+  image: /images/logo_gsticker.png
+  logo: logo_sticker.png # todo: add your custom logo to static/
   subtitle: House, Disco, Chicago # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
   author: C/E/M/M # todo: set your full name.
@@ -15,7 +15,7 @@ params:
   portfolio:
     columns:
       desktop:
-        default: 3
+        default: 2
       mobile:
         default: 2
   socials:
@@ -64,7 +64,7 @@ menu:
       url: https://rtxsessions.bandcamp.com/
       weight: 4
     - name: soundcloud
-      url: https://soundcloud.com/rtxsessions
+      url: https://soundcloud.com/lightroastdisco
       weight: 5
     - name: about
       url: /about/

@@ -1,6 +1,6 @@
 ---
 images:
-- /images/about_small.png
+- /images/light_roast_disco_can_v2.png
 title: about
 url: about
 hideTitle: true
