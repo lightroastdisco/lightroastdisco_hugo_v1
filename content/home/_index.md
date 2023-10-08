@@ -5,16 +5,19 @@ url: home
 
 <div align="center">
 	<p>
-        We make music and throw parties at Cafe Mustache in Logan Square. (fka RTX Sessions)<br>
+        We make music and throw parties, mostly at Cafe Mustache in Logan Square. (fka RTX Sessions)<br>
 	</p>
 	<p>
         <strong>Next Shows:</strong>
 	</p>
 	<p>
-        <a href="https://fb.me/e/3Q7nvXPdS">September 29, 2023 - 9PM</a> 
+        October 20, 2023 - 10PM (@ Loft Lincoln Park)
 	</p>
 	<p>
-        November 17, 2023 - 9PM
+        November 10, 2023 - 10PM (@Loft Lincoln Park)
+	</p>
+	<p>
+        November 17, 2023 - 9PM (@Cafe Mustache)
 	</p>
 </div>
 
